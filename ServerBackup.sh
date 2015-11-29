@@ -5,7 +5,7 @@
  OPTIONS='nogui'
  USERNAME='MinecraftServer'
  WORLD='world'
- MCPATH='/home/MinecraftServer/forge-1.8_sato'
+ MCPATH='/home/MinecraftServer/server'
  BACKUPPATH='/home/MinecraftServer/minecraft.backup'
  MAXHEAP=1024
  MINHEAP=512
