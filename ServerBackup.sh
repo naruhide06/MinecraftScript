@@ -1,7 +1,7 @@
  #!/bin/bash
  
  #Settings
- SERVICE='forge-1.8-11.14.3.1486-universal.jar' 
+ SERVICE='forge-1.8-11.14.4.1563-universal.jar' 
  OPTIONS='nogui'
  USERNAME='MinecraftServer'
  WORLD='world'
