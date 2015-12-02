@@ -12,7 +12,7 @@
 #使い方
 Setting項目を自分の環境に合わせて書き換えるだけです。
 
-ServerBackup.shとServerRestart.shをcronに登録しておけば自動で保守を行ってくれます。
+ServerBackup.shとServerRestart.shをcronに登録しておけば自動でバックアップと再起動を行ってくれます。
 
 Minecraft Wikiの[Tutorials/Server startup script](http://minecraft.gamepedia.com/Tutorials/Server_startup_script)を参考にしているので、
 詳しい使い方はそちらを参照してください。
