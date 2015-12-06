@@ -3,9 +3,9 @@
 
 #内容
 1. ServerBackup.sh 
-  - Worldデータをバックアップします。
+  - Worldをバックアップします。
 2. ServerRestart.sh
-  - サーバーを再起動します。その際Overviewerによるマップの生成を行うようになっています。
+  - サーバーを再起動します。その際WorldのバックアップとOverviewerによるマップの生成を行うようになっています。
 3. ServerUpdate.sh
   - サーバーをアップデートした際、古いデータを新しいサーバに移行するときに使います。
 
